@@ -1,4 +1,6 @@
 # Shiny_drafts
+This repository holds Shiny projects in various states of completion, repurposing, or abandoment. 
 <hr />
-Shiny projects -- some assignments -- that I need a back-up home for.
-<hr />
+
+## Second Assignment
+This was done for Collin Paschall's course -- I jazzed up the original a decent bit.  It requires the cces_smaple_coursera.csv file, and the R libraries shiny, shinythemes, tidyverse, plotly, and DT.
